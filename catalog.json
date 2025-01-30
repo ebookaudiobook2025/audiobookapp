@@ -1,1 +1,12 @@
-
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Sample Book",
+      "author": "Your Name",
+      "pdfUrl": "https://.../book1.pdf",
+      "audioUrl": "https://.../book1.mp3",
+      "coverImageUrl": "https://.../cover1.jpg"
+    }
+  ]
+}
